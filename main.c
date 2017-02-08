@@ -66,6 +66,8 @@ int main()
 		print_uint8_buf(out_buf, OUT_SIZE);
 	}
 	
+	printf("\n\n Conversion by casting resuts:\n");
+    	print_uint8_buf((uint8*)in_buf, OUT_SIZE);
 	
 	//printf("\n\nPush any button to exit...");
 	//getch();
