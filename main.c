@@ -67,8 +67,8 @@ int main()
 	}
 	
 	
-	printf("\n\nPush any button to exit...");
-	getch();
+	//printf("\n\nPush any button to exit...");
+	//getch();
 	
 	return 0;
 }
